@@ -49,7 +49,7 @@ INFO keyspace
 # List the keys
 KEYS *
 
-# Print the contents of the list [owner_addr_of_24031] on index 0
+# Print the contents of the list on index x
 LINDEX animals 0
 LINDEX animals 1
 
