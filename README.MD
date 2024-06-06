@@ -36,7 +36,7 @@ SET color "blue"
 RPUSH animals "dog" "cat" "bird"
 
 # List the available databases
-https://stackoverflow.com/questions/12802726/how-to-list-all-redis-databases
+# https://stackoverflow.com/questions/12802726/how-to-list-all-redis-databases
 CONFIG GET databases
 
 # Move between databases
